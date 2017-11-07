@@ -1,7 +1,7 @@
 /* 
  * tsh - A tiny shell program with job control
  * 
- * <Put your name and login ID here>
+ * 201302361 권성수
  */
 #include <stdio.h>
 #include <stdlib.h>
